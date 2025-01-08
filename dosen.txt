@@ -4,3 +4,4 @@ Dosen.txt
 3. Bambang
 4. Lintang
 5. Agus
+6. Biantoro
