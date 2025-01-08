@@ -1,5 +1,5 @@
 Dosen.txt
-1. Irwanto
+1. Ismail
 2. Bayu
 3. Bambang
 4. Lintang
